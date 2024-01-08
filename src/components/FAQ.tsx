@@ -10,7 +10,7 @@ const FAQ = () => {
   };
 
   return (
-    <div className="sm:px-10 sm:pt-10 px-6 pt-6 bg-white z-10 absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 rounded-2xl max-w-[600px] w-[calc(100%-48px)]">
+    <div className="sm:px-10 sm:pt-10 px-6 pt-6 bg-white z-10 absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 rounded-2xl max-w-[600px] w-[calc(100%-48px)] shadow-faqShadow">
       <div className="flex items-center gap-6 mb-2">
         <img className="w-10 h-10" src="/images/icon-star.svg" alt="" />
         <h1 className="text-[32px] sm:text-[56px] font-bold text-darkPurple sm:leading-[66px]">

@@ -12,6 +12,9 @@ export default {
       fontFamily: {
         workSans: ["Work Sans", "sans-serif"],
       },
+      boxShadow: {
+        faqShadow: "0px 32px 56px 0px rgba(80, 0, 118, 0.10)",
+      },
     },
   },
   plugins: [],
